@@ -1,21 +1,21 @@
 body {
-	font-family: "Source Sans Pro", Arial, Times, sans-serif;
+    font-family: "Source Sans Pro", Arial, Times, sans-serif;
 }
 
 .wrapper {
-	width: 800px;
-	margin: 70px auto;
+    width: 800px;
+    margin: 70px auto;
 }
 
 table {
-	display: table;
-	boarder-collapse: separate;
-	border-color: grey;
+    display: table;
+    boarder-collapse: separate;
+    border-color: grey;
 }
 
 .sidebar-col {
-	width: 23%;
-	padding-right: 20px;
+    width: 23%;
+    padding-right: 20px;
 }
 
 .me-img {
@@ -37,17 +37,17 @@ table {
 }
 
 .name {
-	font-size: 16px;
+    font-size: 16px;
 }
 
 ul {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 li {
-	margin-top: 5px;
+    margin-top: 5px;
 }
 
 a {
@@ -58,7 +58,7 @@ a {
 }
 
 .content {
-	font-size: 15px;
+    font-size: 15px;
 }
 
 h2 {
@@ -69,7 +69,7 @@ h2 {
 }
 
 .description {
-	margin-top: 15px;
+    margin-top: 15px;
 }
 
 a.unstyled {
@@ -78,5 +78,5 @@ a.unstyled {
 }
 
 .project {
-	font-size: 15px;
+    font-size: 15px;
 }
